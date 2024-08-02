@@ -58,6 +58,10 @@ APT-Casino addresses these problems by offering:
 
 - Next.js, Javascript, Tailwind CSS, Move, Solidity, Chainlink VRF, Aptos randomness module: aptos_framework::randomness, Petra Wallet, Metamask Wallet.
 
+## Old Demo Video:
+
+https://youtu.be/nq6cjiY3bn0
+
 ## Future Plans
 
 All though started as a idea for Hackathon but now we are thinking to carry forward as a business model and expand further.
