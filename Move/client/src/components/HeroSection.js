@@ -23,7 +23,7 @@ export default function HeroSection() {
         <h2 className="text-[#B3B3B3] mt-4 text-2xl">
         Dive into the next generation of gaming with APT-Casino where every move is 
 
-          <br /> powered by APTOS blockchain technology. Discover new games, connect with friends, and 
+          <br /> powered by ZetaChain and Aptos blockchain technology. Discover new games, connect with friends, and 
 unlock endless possibilities.
         </h2>
         <div className="flex gap-8 mt-10">
